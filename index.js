@@ -523,4 +523,4 @@ bot.on("guildMemberAdd", async (member) => {
     }
 });
 
-bot.login("Nzg5MjAxMzQzOTE1MDk4MTEy.X9unBw.nbUVtxaJqRD--ORpmcBnz9ly4uU");
+bot.login("token");
