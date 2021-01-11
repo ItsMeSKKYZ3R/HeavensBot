@@ -1,7 +1,7 @@
 # HeavensBot est un bot multi-fonctions français.
 ## Que fait-il ?
 ### Il a les fonctions suivantes :
-- Administration
+1. Administration
 - Modération
 - Fun
 - Musique
